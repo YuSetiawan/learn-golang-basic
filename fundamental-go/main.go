@@ -13,4 +13,5 @@ func main() {
 	point()
 	loop()
 	loopBreak()
+	array()
 }
