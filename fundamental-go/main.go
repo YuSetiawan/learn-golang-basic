@@ -11,4 +11,6 @@ func main() {
 	// memanggil function pada file lain ke dalam satu file
 	greet()
 	point()
+	loop()
+	loopBreak()
 }
