@@ -7,4 +7,7 @@ func main() {
 
 	// Komentar pada golang
 	// perintah fmt.Println() selayaknya concole.log pada javascript
+
+	// memanggil function pada file lain ke dalam satu file
+	greet()
 }
