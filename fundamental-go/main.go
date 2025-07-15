@@ -14,4 +14,7 @@ func main() {
 	loop()
 	loopBreak()
 	array()
+	pickSlice()
+	countSlice()
+	addSlice()
 }
