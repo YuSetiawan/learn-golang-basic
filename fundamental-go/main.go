@@ -17,4 +17,5 @@ func main() {
 	pickSlice()
 	countSlice()
 	addSlice()
+	randomNumber()
 }
